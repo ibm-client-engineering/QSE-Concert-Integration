@@ -18,7 +18,7 @@ website:
     logo: images/IBMlogo.png
     right: 
       - icon: github
-        href: https://github.com/ibm-client-engineering/QSE-Concert-Integration
+        href: https://github.ibm.com/ibm-client-engineering/QSE-Concert-Integration
         target: "_blank"
       - icon: linkedin
         menu:
