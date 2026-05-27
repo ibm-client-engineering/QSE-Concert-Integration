@@ -7,7 +7,7 @@ format:
 
 ---
 
-# Project Name
+# QSE and Concert Integration
 
 Subtitle
 
