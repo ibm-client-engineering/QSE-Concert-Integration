@@ -8,7 +8,7 @@ format: html
 <span class="dot">MS</span> &ensp;Maria Salamone&ensp;
 ```
 ```{=html}
-<span class="dot">??</span> &ensp;&ensp;
+<span class="dot">JD</span> &ensp;John Doe&ensp;
 ```
 <br>
 ---
