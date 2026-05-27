@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Project Name",
     "section": "",
-    "text": "SL",
+    "text": "MS",
     "crumbs": [
       "Problem Definition"
     ]
@@ -41,14 +41,11 @@
     ]
   },
   {
-    "objectID": "src/key-takeaway.html",
-    "href": "src/key-takeaway.html",
-    "title": "Key Takeaways",
+    "objectID": "src/landing_page/landing_page.html",
+    "href": "src/landing_page/landing_page.html",
+    "title": "Project Name",
     "section": "",
-    "text": "Best Practices\n(Capture the main takeaways and results of the project)",
-    "crumbs": [
-      "Key Takeaways"
-    ]
+    "text": "Project Name\nSubtitle\n\n\nOur Documentation \n\n\n\n\n\nNext Steps\n\n\n\nL ink 1\n\n\n\nLink 2"
   },
   {
     "objectID": "src/solution_overview/environment.html",
@@ -59,17 +56,6 @@
     "crumbs": [
       "Solution Overview",
       "Environment"
-    ]
-  },
-  {
-    "objectID": "src/solution_overview/troubleshooting.html",
-    "href": "src/solution_overview/troubleshooting.html",
-    "title": "Step Three",
-    "section": "",
-    "text": "Step Three Solution",
-    "crumbs": [
-      "Solution Overview",
-      "Troubleshooting"
     ]
   },
   {
@@ -84,11 +70,25 @@
     ]
   },
   {
-    "objectID": "src/landing_page/landing_page.html",
-    "href": "src/landing_page/landing_page.html",
-    "title": "Project Name",
+    "objectID": "src/solution_overview/troubleshooting.html",
+    "href": "src/solution_overview/troubleshooting.html",
+    "title": "Step Three",
     "section": "",
-    "text": "Project Name\nSubtitle\n\n\nOur Documentation \n\n\n\n\n\nNext Steps\n\n\n\nL ink 1\n\n\n\nLink 2"
+    "text": "Step Three Solution",
+    "crumbs": [
+      "Solution Overview",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "objectID": "src/key-takeaway.html",
+    "href": "src/key-takeaway.html",
+    "title": "Key Takeaways",
+    "section": "",
+    "text": "Best Practices\n(Capture the main takeaways and results of the project)",
+    "crumbs": [
+      "Key Takeaways"
+    ]
   },
   {
     "objectID": "src/implementation_methodology/stepthree-imp.html",
